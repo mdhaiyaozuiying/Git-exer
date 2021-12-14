@@ -6,4 +6,8 @@ package com.exer.git;
  * @date 2021/12/13
  */
 public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello  git");
+        System.out.println("hello");
+    }
 }
